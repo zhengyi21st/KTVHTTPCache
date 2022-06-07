@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CocoaAsyncSocket",
+        "repositoryURL": "https://github.com/robbiehanson/CocoaAsyncSocket",
+        "state": {
+          "branch": null,
+          "revision": "dbdc00669c1ced63b27c3c5f052ee4d28f10150c",
+          "version": "7.6.5"
+        }
+      },
+      {
+        "package": "KTVCocoaHTTPServer",
+        "repositoryURL": "https://github.com/zhengyi21st/KTVCocoaHTTPServer",
+        "state": {
+          "branch": null,
+          "revision": "2f015f2e9a328c5700066458e0ffd1b19c36345e",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

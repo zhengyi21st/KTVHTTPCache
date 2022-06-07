@@ -6,9 +6,12 @@
 //  Copyright © 2017年 Single. All rights reserved.
 //
 
-#ifndef KTVHCHTTPHeader_h
-#define KTVHCHTTPHeader_h
+#if __has_include(<KTVCocoaHTTPServer/KTVCocoaHTTPServer.h>)
 
 #import <KTVCocoaHTTPServer/KTVCocoaHTTPServer.h>
 
-#endif /* KTVHCHTTPHeader_h */
+#else
+
+#import "KTVCocoaHTTPServer.h"
+
+#endif
